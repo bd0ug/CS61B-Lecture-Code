@@ -21,6 +21,7 @@ public class IntList {
         }
     }
 
+
     /**
      * @return the size of the list using no recursion
      */
@@ -65,6 +66,7 @@ public class IntList {
         System.out.println(L.size());
         System.out.println(L.iterativeSize());
         System.out.println(L.recursiveGet(2));
+
 //        IntList L = new IntList();
 //        L.first = 5;
 //        L.rest = null;
